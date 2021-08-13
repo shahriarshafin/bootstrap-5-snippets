@@ -1,0 +1,52 @@
+{
+    "name": "bootstrap-5-snippets",
+    "displayName": "Bootstrap 5 Snippets",
+    "description": "Code snippets for Bootstrap 5",
+    "version": "1.0.1",
+    "publisher": "Shahriar Shafin",
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#C80000",
+        "theme": "dark"
+      },
+    "homepage": "https://github.com/shahriarshafin/bootstrap-5-snippets/blob/master/README.md",
+    "keywords": [
+        "snippets",
+        "react",
+        "redux",
+        "react-native",
+        "javascript",
+        "typescript"
+      ],
+    "license": "MIT",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/shahriarshafin/bootstrap-5-snippets.git"
+	},
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    
+    "categories": [
+        "Snippets"
+    ],
+    "bugs": {
+		"url": "https://github.com/shahriarshafin/bootstrap-5-snippets/issues",
+        "email": "smcbreen@microsoft.com"
+	},
+    "activationEvents": [
+		"onStartupFinished"
+	],
+    "extensionKind": [
+        "ui",
+        "workspace"
+      ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
