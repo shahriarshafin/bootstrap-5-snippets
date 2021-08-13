@@ -32,15 +32,9 @@
     ],
     "bugs": {
 		"url": "https://github.com/shahriarshafin/bootstrap-5-snippets/issues",
-        "email": "smcbreen@microsoft.com"
+        "email": "connect.shafin@gmail.com"
 	},
-    "activationEvents": [
-		"onStartupFinished"
-	],
-    "extensionKind": [
-        "ui",
-        "workspace"
-      ],
+   
     "contributes": {
         "snippets": [
             {

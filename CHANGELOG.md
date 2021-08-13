@@ -4,4 +4,4 @@ All notable changes to the "bootstrap-5-snippets" extension will be documented i
 
 ## [1.0.1]
 
-- Initial release
+- Initial release of `bootstrap-5-snippets`
